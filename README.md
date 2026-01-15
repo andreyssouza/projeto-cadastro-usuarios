@@ -3,6 +3,7 @@
 🚀 **Cadastro de Usuários - DevClub**
 Interface moderna e responsiva para cadastro e listagem de usuários, desenvolvida durante a jornada no DevClub. O projeto foca em conceitos avançados de Front-end, como manipulação de estados, consumo de API e estilização dinâmica.
 
+
 🛠 T**ecnologias Utilizadas**
 React.js: Biblioteca principal para construção da interface.
 
@@ -16,6 +17,8 @@ React.js: Biblioteca principal para construção da interface.
 
 **Design Responsivo**: Layout adaptável com o uso de Flexbox e cálculos dinâmicos de Viewport (vh/vw).
 
+
+
 ✨ Funcionalidades
 **Cadastro de Usuários**: Adição de novos nomes e idades à base de dados.
 
@@ -24,6 +27,8 @@ React.js: Biblioteca principal para construção da interface.
 **Exclusão**: Remoção de usuários da lista com interação dinâmica.
 
 **Navegação Intuitiva**: Botões inteligentes que adaptam sua aparência e direção conforme a página.
+
+
 
 🎨 Preview do Layout
 A aplicação utiliza uma estética moderna com:
@@ -34,7 +39,9 @@ A aplicação utiliza uma estética moderna com:
 
 **Fundo Imersivo**: Background que ocupa 100% da tela de forma fixa e centralizada.
 
-🚀 Como Executar o Projeto
+
+
+🚀 **Como Executar o Projeto**
 Clone este repositório.
 
 Instale as dependências:
