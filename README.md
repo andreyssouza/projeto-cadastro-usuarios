@@ -1,70 +1,63 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# projeto-cadastro-usuarios
 
-## Available Scripts
+🚀 **Cadastro de Usuários - DevClub**
+Interface moderna e responsiva para cadastro e listagem de usuários, desenvolvida durante a jornada no DevClub. O projeto foca em conceitos avançados de Front-end, como manipulação de estados, consumo de API e estilização dinâmica.
 
-In the project directory, you can run:
 
-### `npm start`
+🛠 T**ecnologias Utilizadas**
+React.js: Biblioteca principal para construção da interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Styled Components**: Estilização avançada com CSS-in-JS e uso de Transient Props ($) para performance.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**React Hooks**: Uso de useState para gerenciamento de dados e useEffect para sincronização com a API.
 
-### `npm test`
+**React Router Dom**: Gerenciamento de rotas e navegação entre páginas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Axios**: Integração com serviços de API para operações CRUD (Create, Read, Delete).
 
-### `npm run build`
+**Design Responsivo**: Layout adaptável com o uso de Flexbox e cálculos dinâmicos de Viewport (vh/vw).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✨ Funcionalidades
+**Cadastro de Usuários**: Adição de novos nomes e idades à base de dados.
 
-### `npm run eject`
+**Listagem em Tempo Real**: Visualização imediata dos usuários cadastrados com efeito de desfoque (Glassmorphism).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Exclusão**: Remoção de usuários da lista com interação dinâmica.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Navegação Intuitiva**: Botões inteligentes que adaptam sua aparência e direção conforme a página.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+🎨 Preview do Layout
+A aplicação utiliza uma estética moderna com:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Glassmorphism**: Painéis semitransparentes com backdrop-filter: blur.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Efeitos Dinâmicos**: Botões que giram ícones e mudam de cor conforme a interação.
 
-### Code Splitting
+**Fundo Imersivo**: Background que ocupa 100% da tela de forma fixa e centralizada.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+🚀 **Como Executar o Projeto**
+Clone este repositório.
 
-### Making a Progressive Web App
+Instale as dependências:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Bash
 
-### Advanced Configuration
+npm install
+# ou
+yarn
+Inicie o projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Bash
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+npm start
+# ou
+yarn start
+**Abra http://localhost:3000 no seu navegador.**
+>>>>>>> e8abdf766ae7b4489b102a3b33b86e61a63f95db
