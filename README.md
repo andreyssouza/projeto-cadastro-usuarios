@@ -1,4 +1,7 @@
+🔗 Conectividade Full Stack
+Este projeto Front-end consome uma API REST desenvolvida em Node.js.
 
+Repositório da API (Back-end): [Acesse aqui o código do servidor](https://github.com/andreyssouza/api-cadastro-usuarios)
 # projeto-cadastro-usuarios
 
 🚀 **Cadastro de Usuários - DevClub**
