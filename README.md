@@ -2,7 +2,7 @@
 Este projeto Front-end consome uma API REST desenvolvida em Node.js.
 
 Repositório da API (Back-end): [Acesse aqui o código do servidor](https://github.com/andreyssouza/api-cadastro-usuarios)
-# projeto-cadastro-usuarios
+
 
 🚀 **Cadastro de Usuários - DevClub**
 Interface moderna e responsiva para cadastro e listagem de usuários, desenvolvida durante a jornada no DevClub. O projeto foca em conceitos avançados de Front-end, como manipulação de estados, consumo de API e estilização dinâmica.
